@@ -17,7 +17,7 @@ AI USM Telegram Bot для прогнозов валют, акций и анал
 
 1. Клонируйте репозиторий:
     ```bash
-    git clone https://github.com/yourusername/AI-USM-tg.git![ai_usm_forecasting](https://github.com/user-attachments/assets/f494c6ff-dfce-493e-baa9-fea7aa6c6bd1)
+    git clone https://github.com/Lykman/AI-USM-tg.git![ai_usm_forecasting](https://github.com/user-attachments/assets/f494c6ff-dfce-493e-baa9-fea7aa6c6bd1)
 
     cd AI-USM-tg
     ```
